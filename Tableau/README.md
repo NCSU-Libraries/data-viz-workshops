@@ -1,4 +1,6 @@
 #Tableau I
+by Alison Blaine and Jennifer Garret, NCSU Libraries
+Videos by Natalia Lopez
 
 This is an introductory Tableau workshop that covers the following skills: 
 
