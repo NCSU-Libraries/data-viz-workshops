@@ -1,7 +1,4 @@
 #Tableau I
-by Alison Blaine and Jennifer Garret, NCSU Libraries
-
-videos by Natalia Lopez
 
 This is an introductory Tableau workshop that covers the following skills: 
 
@@ -12,3 +9,9 @@ This is an introductory Tableau workshop that covers the following skills:
 Please access the instructions by clicking on the [Guide](https://github.ncsu.edu/ablaine/datavizworkshops/blob/master/Tableau/Guide.pdf). 
 
 Here's a [sample Tableau workbook](https://public.tableau.com/profile/alblaine#!/vizhome/RaleighCrimeDashboard2/Dashboard) you can make if you follow the activities in the guide.
+
+
+----
+by Alison Blaine [ablaine@ncsu.edu](mailto:ablaine@ncsu.edu) and Jennifer Garrett [jigarret@ncsu.edu](mailto:jigarret@ncsu.edu)
+
+videos by Natalia Lopez
