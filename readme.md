@@ -1,6 +1,6 @@
 ## Data Visualization Workshop Series @ NCSU Libraries
 
-### Project website: [go.ncsu.edu/vizmaterials](https://ncsu-libraries.github.io/data-viz-workshops/)
+### Project website: [go.ncsu.edu/vizmaterials](https://go.ncsu.edu/vizmaterials)
 <img src="https://github.com/NCSU-Libraries/data-viz-workshops/blob/master/images/workshop.jpg?raw=true" width="400">
 
 
