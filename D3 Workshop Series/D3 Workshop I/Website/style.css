@@ -1,0 +1,49 @@
+
+body{
+    max-width: 960px;
+    margin: 0 auto;     
+    padding: 0;
+    font-family: Consolas, monospace;
+    font-size: 16px;
+    color: grey;
+}
+header{
+    margin-top: 12px;
+    font-size: 24px;
+}
+#email{
+    float: right;
+}
+h1, h2{
+    color: black;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 24px;
+    font-weight: normal;
+}
+main figure{
+    display: flex;
+    align-items: start;
+}
+img{
+    float:left;
+    width: 100%;
+}
+.left{
+    display: inline-block;
+    width: 33.33333%;
+}
+div.right{
+    float: right;
+    width: 66.66666%;
+}
+footer{
+    width:100%;
+    bottom:0;
+}
+hr{
+    width:100%;
+}
