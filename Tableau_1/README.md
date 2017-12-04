@@ -1,4 +1,4 @@
-#Tableau I
+# Tableau I
 
 This is an introductory Tableau workshop that covers the following skills: 
 
