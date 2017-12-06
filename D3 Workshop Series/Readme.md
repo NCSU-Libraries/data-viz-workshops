@@ -1,0 +1,11 @@
+# D3 Workshops I + II
+[Payod Panda](http://payodpanda.com), [ppanda@ncsu.edu](mailto:ppanda@ncsu.edu)
+
+These workshops aim at introducing web- and JavaScript-novices to data visualization with D3.js. D3 is a JavaScript library developed by Mike Bostock, and is very popular for data visualization in web environments. D3 stands for Data Driven Documents, and enables the creator to map data elements to elements on the web page, like SVG shapes or other HTML elements.
+
+Part I of this worksop series introduces the attendees to basic web concepts, relating them back to books and other print media. Attendees are introduced to HTML (focus on DOM structure and hierarchy), CSS (focus on CSS selectors), and JavaScript (via importing the d3.js library). The goal of the first part is to set-up the attendees to meaningfully attend and understand the concepts talked about in Part II.
+
+Part II of the series introduces the attendees to D3. We talk about the reasoning behind inclusion of some features, and dive into creating with D3. This is a creation-focused workshop, where the attendees create a simple bar chart by following the instructor. Attendees learn about data visualization concepts, how to break down a visulization into individual parts so they can be recreated, and D3-specific concepts of data joins and selections.
+
+There are various resources included within these folders. At the top level, we have a [resource handbook](https://github.com/NCSU-Libraries/data-viz-workshops/blob/master/D3%20Workshop%20Series/D3%20Workshop%20Series%20Resources.pdf), which links to the templates and final versions of the code we create in the workshops. It also has a list of tutorials, guides, and resources from the internet to help the attendee continue learning about the web and D3 after attending the workshop. There is also a [step-by-step tutorial](https://github.com/NCSU-Libraries/data-viz-workshops/blob/master/D3%20Workshop%20Series/D3%20Workshop%20II/D3%20Part%202_%20D3%20Fundamentals%20Walkthrough.pdf) for following the second part of the workshop to create the bar chart. 
+Apart from these, the folders contain the slides for the presentations that were used for the workshops, as well as the website that was created.
