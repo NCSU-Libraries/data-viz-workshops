@@ -1,10 +1,10 @@
-## Data Visualization Workshop Series @ NCSU Libraries
+## Data and Visualization Workshop Series @ NCSU Libraries
 
 ### Project website: [go.ncsu.edu/vizmaterials](https://go.ncsu.edu/vizmaterials)
 <img src="https://github.com/NCSU-Libraries/data-viz-workshops/blob/master/images/workshop.jpg?raw=true" width="400">
 
 
-This repository contains materials created by NCSU Libraries for our popular data visualization workshop series. These materials are intended as a resource for anyone who wants to conduct data visualization workshops.
+This repository contains materials created by NCSU Libraries for our popular data visualization workshop series. These materials are intended as a resource for anyone who wants to conduct data and visualization workshops.
 
 The workshops are designed to be hands-on with guided activities and then some time at the end for participants to experiment using their own data.
 
