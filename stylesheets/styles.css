@@ -245,6 +245,7 @@ footer {
   float:left;
   position:fixed;
   bottom:50px;
+  top: 400px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
