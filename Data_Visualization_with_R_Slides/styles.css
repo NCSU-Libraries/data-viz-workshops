@@ -1,0 +1,39 @@
+
+html, body {
+  background-color: #5d5d5e;
+  color: #fff;
+  font-family: "Open Sans";
+}
+
+a:link {
+  color: #f442cb;
+}
+
+a:visited {
+  color: #f77016; 
+}
+img {
+  max-width: 70%;
+}
+
+h2 {
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+
+}
+h3 {
+	
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+
+}
+p {
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+}
