@@ -1,16 +1,16 @@
 ---
 title: "Data Visualization with R"
-author: "NCSU Libraries"
-date: "2/1/2019"
-output: 
+author: "NC State University Libraries"
+output:  
   revealjs::revealjs_presentation:
     theme: white
     highlight: zenburn
     transition: slide
+
 ---
   
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.width=4, fig.height=4, error=FALSE, message=FALSE)
+knitr::opts_chunk$set(echo = TRUE, fig.width=4, fig.height=4, error=FALSE, message=FALSE, warning=FALSE)
 ```
 
 ```{r echo=FALSE}
