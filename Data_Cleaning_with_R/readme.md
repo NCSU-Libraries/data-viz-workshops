@@ -1,8 +1,8 @@
 ## Data Cleaning with R
 
-This repository contains the files for the Data Cleaning with R workshop at NC State University Libraries. 
+The purpose of this workshop is to provide participants with hands-on experience cleaning and transforming data. Participants will learn common data cleaning functions from the [tidyverse](https://www.tidyverse.org), which is a set of R packages for data science.
 
-It contains the following: 
+This repository contains the following files: 
 
 * datasets (csv files)
 * slides pdf
