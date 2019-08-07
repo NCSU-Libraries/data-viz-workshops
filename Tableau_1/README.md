@@ -1,4 +1,4 @@
-# Tableau I
+## Tableau I
 
 This is an introductory Tableau workshop that covers the following skills: 
 
@@ -12,6 +12,5 @@ Here's a [sample Tableau workbook](https://public.tableau.com/profile/alblaine#!
 
 
 ----
-by Alison Blaine [ablaine@ncsu.edu](mailto:ablaine@ncsu.edu) and Jennifer Garrett [jigarret@ncsu.edu](mailto:jigarret@ncsu.edu)
-
-videos by Natalia Lopez
+by [Alison Blaine](https://github.com/alblaine)
+videos by [Natalia Lopez](https://github.com/batlopez)
