@@ -1,7 +1,7 @@
 ## Getting Started with Data Visualization II: Elements of Design! 
 
 
-This repository contains materials for the Getting Started with Data Visualization II: Elements of Design workshop at NC State University Libraries. In this workshop, participants will learn the process for making good visualizations and get practice with two tools, Tableau and Raw.
+This repository contains materials for the Getting Started with Data Visualization II: Elements of Design workshop at NC State University Libraries. In this workshop, participants will learn visualization design principles and gain some experience critiquing and re-designing graphs.
 
 The materials for the workshop consist of a slide presentation (PowerPoint and PDF format), an activity guide handout (Word and PDF format), a dataset (HollywoodsMostProfitableStories.csv), and a Tableau workbook file of example graphs.  
 
