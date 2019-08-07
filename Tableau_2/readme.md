@@ -1,10 +1,10 @@
-## Tableau I
+## Tableau II
 
-This is an introductory Tableau workshop that covers the following skills: 
+This is an intermediate Tableau workshop that covers the following skills: 
 
-* making multiple chart types, including: bar, map, line 
-* creating a dashboard
-* adding dashboard actions
+* grouping and binning data
+* creating calculated fields
+* creating dual axis charts
 
 Please access the instructions by clicking on the [Guide](https://github.ncsu.edu/ablaine/datavizworkshops/blob/master/Tableau/Guide.pdf). 
 
@@ -12,5 +12,4 @@ Here's a [sample Tableau workbook](https://public.tableau.com/profile/alblaine#!
 
 
 ----
-by [Alison Blaine](@alblaine)
-videos by [Natalia Lopez](@batlopez)
+by [Alison Blaine](@alblaine) 

@@ -1,5 +1,4 @@
 ## Beginning R
-#### Created by Nushrat Khan and Alison Blaine
 
 
 This repository contains the materials for the Beginning R workshop at NC State University Libraries. It includes the following: 
@@ -12,3 +11,7 @@ This repository contains the materials for the Beginning R workshop at NC State 
 To use these files, you can either download them from this site or access them in RStudio.Cloud at [https://go.ncsu.edu/beginr](https://go.ncsu.edu/beginr)
 
 To download them from this Github repository, click on the file name. Once the file page loads, then click the Download button.
+
+
+----
+by Alison Blaine and Nushrat Khan
