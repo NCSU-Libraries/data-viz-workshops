@@ -10,4 +10,4 @@ To download the slides and handout, click on each file link above and then the D
 
 
 ----
-by [Alison Blaine](@alblaine) and Jennifer Garrett
+by [Alison Blaine](https://github.com/alblaine) and Jennifer Garrett

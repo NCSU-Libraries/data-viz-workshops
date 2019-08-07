@@ -12,5 +12,5 @@ Here's a [sample Tableau workbook](https://public.tableau.com/profile/alblaine#!
 
 
 ----
-by [Alison Blaine](@alblaine)
-videos by [Natalia Lopez](@batlopez)
+by [Alison Blaine](https://github.com/alblaine)
+videos by [Natalia Lopez](https://github.com/batlopez)

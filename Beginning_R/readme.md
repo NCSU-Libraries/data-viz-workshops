@@ -14,4 +14,4 @@ To download them from this Github repository, click on the file name. Once the f
 
 
 ----
-by Alison Blaine and Nushrat Khan
+by [Alison Blaine](https://github.com/alblaine) and Nushrat Khan

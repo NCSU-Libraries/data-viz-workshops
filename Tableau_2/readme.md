@@ -12,4 +12,4 @@ Here's a [sample Tableau workbook](https://public.tableau.com/profile/alblaine#!
 
 
 ----
-by [Alison Blaine](@alblaine) 
+by [Alison Blaine](https://github.com/alblaine) 

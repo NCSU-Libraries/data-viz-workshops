@@ -8,4 +8,4 @@ The materials for the workshop consist of a slide presentation (PowerPoint and P
 To download the slides, handout, and workbook, click on each file link above and then the Download button. To download the dataset, click the filename and then the Raw button. The raw data will appear in the browser window. This data can be copied into a text file and saved on your computer.
 
 ----
-by [Alison Blaine](@alblaine) and Jennifer Garrett
+by [Alison Blaine](https://github.com/alblaine) and Jennifer Garrett
