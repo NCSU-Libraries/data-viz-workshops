@@ -10,3 +10,5 @@ This repository contains the materials for the Beginning R workshop at NC State 
 * solutions file - this r script contains the solutions for the hands-on activity
 
 To use these files, you can either download them from this site or access them in RStudio.Cloud at [https://go.ncsu.edu/beginr](https://go.ncsu.edu/beginr)
+
+To download them from this Github repository, click on the file name. Once the file page loads, then click the Download button.

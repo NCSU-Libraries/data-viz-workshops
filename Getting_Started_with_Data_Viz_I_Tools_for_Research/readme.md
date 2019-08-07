@@ -1,7 +1,7 @@
 ## Getting Started with Data Visualization: Tools for Research! 
 #### Created by Alison Blaine and Jennifer Garrett
 
-This repository contains materials for the Getting Started with Data Visualization: Tools for Research! workshop at NC State University Libraries. In this workshop, participants will learn the process for making good visualizations and get practice with two tools, Tableau and Raw.
+This repository contains materials for the Getting Started with Data Visualization: Tools for Research workshop at NC State University Libraries. In this workshop, participants will learn the process for making good visualizations and get practice with two tools, Tableau and Raw.
 
 The materials for the workshop consist of a slide presentation (PowerPoint and PDF format), an activity guide handout (Word and PDF format), and a dataset (TopBabyNames.csv).  
 
