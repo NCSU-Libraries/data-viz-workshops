@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Data_Manipulation_with_Python/data_manipulation.ipynb)
 
 # Data Manipulation with Python
 
@@ -7,3 +8,5 @@ This workshop teaches basic data manipulation with Python using the Pandas libra
 
 ### Prerequisites:
 You should be familiar with basic Python syntax and fundamental programming concepts such as variables, functions, and control flow. If you need a refresher, check out A Byte of Python (https://python.swaroopch.com/).
+
+
