@@ -4,3 +4,4 @@ etc/
 include/
 lib/
 share/
+**/.DS_Store
