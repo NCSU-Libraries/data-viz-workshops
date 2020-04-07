@@ -12,4 +12,4 @@ You should be familiar with basic Python syntax and fundamental programming conc
 
 ### Credits
 
-This workshop was originally written and taught at Stanford University by Javier de la Rosa (Postdoctoral Research at UNED) and Scott Bailey.
+The first version of this workshop was originally written and taught at Stanford University by Javier de la Rosa (Postdoctoral Research at UNED) and Scott Bailey.
