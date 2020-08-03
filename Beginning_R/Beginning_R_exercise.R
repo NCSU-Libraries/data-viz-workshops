@@ -226,7 +226,7 @@ summary(linearMod)
 # Resources
 # For more help with base R, please see the Base R Cheat Sheet: https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf
 # For cheatsheats on other popular R packages, visit https://www.rstudio.com/resources/cheatsheets/
-# For a free intro to R online course, visit https://www.datacamp.com
+# For resources on learning R, see https://education.rstudio.com/learn/beginner/.
 
 # Future workshops
 # Please see https://go.ncsu.edu/workshops to see upcoming workshops at NCSU Libraries
