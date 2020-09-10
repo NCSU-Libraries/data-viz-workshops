@@ -8,4 +8,4 @@ To create a copy of the workshop materials, and run the code, click the Open in 
 
 ### Credits
 
-This workshop was originally developed and taught at Stanford University by Scott Bailey and Javier de la Rosa, with later contributions from Peter Broadwell and Simon Wiles, both of Stanford Libraries.
+This workshop was originally developed and taught at Stanford University by Scott Bailey and Javier de la Rosa, with later contributions from Peter Broadwell and Simon Wiles. At NC State, it's enjoyed further contributions from Vincent Tompkins and Claire Cahoon.
