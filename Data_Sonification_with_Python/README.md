@@ -6,6 +6,6 @@ This workshop introduces the concept of data sonification, using characteristics
 
 To create a copy of the workshop materials, and run the code, click the Open in Colab button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
 
-### Credits
+## Credits
 
 This workshop was developed by Walt Gurley at NC State University Libraries.
