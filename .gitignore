@@ -5,3 +5,4 @@ include/
 lib/
 share/
 **/.DS_Store
+.vscode
