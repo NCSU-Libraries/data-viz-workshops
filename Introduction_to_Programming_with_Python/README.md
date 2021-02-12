@@ -6,13 +6,13 @@ These materials introduce fundamental concepts of programming through the Python
 
 [![Open Introduction_to_Programming_in_Python_1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Introduction_to_Programming_with_Python/Introduction_to_Programming_with_Python_1.ipynb)
 
-This Jupyter Notebook covers basic Python syntax, fundamentals of running code in a notebook environment, variables, data types, and functions. It also includes several hands-on activities.
+This Jupyter Notebook covers basic Python syntax, fundamentals of running code in a notebook environment, variables, data types, and functions with several hands-on activities.
 
 ## Introduction to Programing with Python–Part 2
 
 <!-- [![Open Introduction to Programming in Python 2 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Introduction_to_Programming_in_Python/Introduction_to_Programming_with_Python_2.ipynb) -->
 
-This Jupyter Notebook covers control flow (conditional statements and for loops) and reading and writing to files. It also includes several hands-on activities.
+This Jupyter Notebook covers control flow (conditional statements and for loops) and reading and writing to files with several hands-on activities.
 
 ## Credits
 
