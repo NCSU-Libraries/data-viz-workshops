@@ -1,26 +1,26 @@
-Member Info. ID;Name;Joined;Address 1;Address 2;City;State;Zip Code;Subscriptions
-1;Bill;2015;12309 Scratch Tree Lane;Apt. 1;Beverly Hills;CA;90210;Little Known Hiss-tories podcast
-2;Pete;2018;501 Grumpy Street;;Long Beach;California;90803;Leisure Cats magazine, Little Known Hiss-tories podcast
-3;Bob;2019;62 Ocean Catch Way;;Astoria;OR;97103;email newsletter
-4;Carla;2006;2120 Curious Court;unit B;Raleigh;North Carolina;27610;email newsletter, Cat Nips subscription box
-5;Jose;2020;10036 Sunny Spot Avenue;;Greensboro;NC;27502;Cat Nips subscription box, Little Known Hiss-tories podcast, Leisure Cats magazine
-6;Ali;2007;143 Right Meow Place;Apt. 2;Portland;ME;3901;email newsletter, Little Known Hiss-tories podcast
-7;Marcus;2019;21 Bird Watch Circle;;Austin;Texas;73301;Leisure Cats Magazine, Little Known Hiss-tories podcast
-8;Tanvi;2017;4532 Tiny Mouse Street;Unit D;Dallas;TX;73303;Little Known Hiss-tories podcast, Cat Nips subscription box
-9;Lian;2008;3132 Goldfish Lane;;Ithaca;NY;14850;email newsletter
-10;Arturo;2014;5120 Kibbler Blvd.;;New York;New York;10001;Leisure Cats magazine, email newsletter
-11;Silvia;2009;17001 Kling Street;;North Hollywood;CA;90812;Little Known Hiss-tories podcast,  Leisure Cats Magazine, email newsletter
-12;Celine;2007;2124 Bermuda Street;Apt. 3;San Francsico;California;94123;Cat Nips subscription box, Little Known Hiss-tories podcast, Leisure Cats magazine
-13;Omar;2008;9 Catnado Way;258;Bellevue;WA;98004;Little Known Hiss-tories podcast
-14;Niko;2016;4246 Scruffy Way;Apt. 19;Lincoln City;IN;47552;Leisure Cats magazine, Little Known Hiss-tories podcast, Cat Nips subscription box
-15;Remi;2020;3207 W. 2nd Street;;Las Vegas;NV;89128;Little Known Hiss-tories podcast
-16;Klaus;2013;5939 Friendly Ave.;Unit A;Miami;FL;33125;email newsletter
-17;Estaban;2008;72 Laser Lane;;Phoenix;AZ;85032;Leisure Cats magazine, email newsletter
-18;Dallas;2019;5525 E. Atlantic Katz Highway;;Saint Louis;MO;63116;Cat Nips subscription box, Little Known Hiss-tories podcast, Leisure Cats magazine
-19;Darci;2007;3836 Sleepy Place;231;Minneapolis;MN;55407;Leisure Cats magazine
-20;Koko;2016;5844 Perchcrest Court;;Germantown;TN;38138;email newsletter, Cat Nips subscription box
-21;Mango;2009;202 Cuddle Ave.;;Green River;UT;84525;Cat Nips subscription box 
-22;Freya;2020;3532 Lazyport Circle.;;Buffalo;NY;14215;Leisure Cats magazine, email newsletter
-23;Big Guy;2018;3932 Parrot Cove Blvd;;Ely;NV;89301;Little Known Hiss-tories podcast
-24;Fluffy;2013;504 Catfish Swamp Road;;Villanova;PA;19085;Little Known Hiss-tories podcast, Cat Nips subscription box
-25;Squeaky;2007;21 Kitten Mews Drive;Apt. 21;Chicago;IL;60629;Leisure Cats magazine, Little Known Hiss-tories podcast, Cat Nips subscription box
+Name;Joined;Address 1;Address 2;City;State;Zip Code;Subscriptions
+Bill;2015;12309 Scratch Tree Lane;Apt. 1;Beverly Hills;CA;90210;Little Known Hiss-tories podcast
+Pete;2018;501 Grumpy Street;;Long Beach;California;90803;Leisure Cats magazine, Little Known Hiss-tories podcast
+Bob;2019;62 Ocean Catch Way;;Astoria;OR;97103;email newsletter
+Carla;2006;2120 Curious Court;unit B;Raleigh;North Carolina;27610;email newsletter, Cat Nips subscription box
+Jose;2020;10036 Sunny Spot Avenue;;Greensboro;NC;27502;Cat Nips subscription box, Little Known Hiss-tories podcast, Leisure Cats magazine
+Ali;2007;143 Right Meow Place;Apt. 2;Portland;ME;3901;email newsletter, Little Known Hiss-tories podcast
+Marcus;2019;21 Bird Watch Circle;;Austin;Texas;73301;Leisure Cats Magazine, Little Known Hiss-tories podcast
+Tanvi;2017;4532 Tiny Mouse Street;Unit D;Dallas;TX;73303;Little Known Hiss-tories podcast, Cat Nips subscription box
+Lian;2008;3132 Goldfish Lane;;Ithaca;NY;14850;email newsletter
+Arturo;2014;5120 Kibbler Blvd.;;New York;New York;10001;Leisure Cats magazine, email newsletter
+Silvia;2009;17001 Kling Street;;North Hollywood;CA;90812;Little Known Hiss-tories podcast,  Leisure Cats Magazine, email newsletter
+Celine;2007;2124 Bermuda Street;Apt. 3;San Francsico;California;94123;Cat Nips subscription box, Little Known Hiss-tories podcast, Leisure Cats magazine
+Omar;2008;9 Catnado Way;258;Bellevue;WA;98004;Little Known Hiss-tories podcast
+Niko;2016;4246 Scruffy Way;Apt. 19;Lincoln City;IN;47552;Leisure Cats magazine, Little Known Hiss-tories podcast, Cat Nips subscription box
+Remi;2020;3207 W. 2nd Street;;Las Vegas;NV;89128;Little Known Hiss-tories podcast
+Klaus;2013;5939 Friendly Ave.;Unit A;Miami;FL;33125;email newsletter
+Estaban;2008;72 Laser Lane;;Phoenix;AZ;85032;Leisure Cats magazine, email newsletter
+Dallas;2019;5525 E. Atlantic Katz Highway;;Saint Louis;MO;63116;Cat Nips subscription box, Little Known Hiss-tories podcast, Leisure Cats magazine
+Darci;2007;3836 Sleepy Place;231;Minneapolis;MN;55407;Leisure Cats magazine
+Koko;2016;5844 Perchcrest Court;;Germantown;TN;38138;email newsletter, Cat Nips subscription box
+Mango;2009;202 Cuddle Ave.;;Green River;UT;84525;Cat Nips subscription box 
+Freya;2020;3532 Lazyport Circle.;;Buffalo;NY;14215;Leisure Cats magazine, email newsletter
+Big Guy;2018;3932 Parrot Cove Blvd;;Ely;NV;89301;Little Known Hiss-tories podcast
+Fluffy;2013;504 Catfish Swamp Road;;Villanova;PA;19085;Little Known Hiss-tories podcast, Cat Nips subscription box
+Squeaky;2007;21 Kitten Mews Drive;Apt. 21;Chicago;IL;60629;Leisure Cats magazine, Little Known Hiss-tories podcast, Cat Nips subscription box
