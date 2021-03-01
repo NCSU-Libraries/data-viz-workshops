@@ -4,4 +4,4 @@ These materials provide an introduction to core concepts for working with data i
 
 ## Credits
 
-These materials were developed by Claire Cahoon and Walt Gurley at the NC State University Libraries.
+These materials were developed by Claire Cahoon and Walt Gurley at the NC State University Libraries, adapted from previous workshop materials by Scott Bailey and Simon Wiles, of Stanford Libraries.
