@@ -1,4 +1,4 @@
-# Data Sonification in Python
+# Data Sonification with Python
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Data_Sonification_with_Python/DataSonificationWithPython.ipynb)
 
