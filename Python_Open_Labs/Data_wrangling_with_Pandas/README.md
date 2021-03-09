@@ -6,6 +6,6 @@ This series provides an introduction to core concepts for working with data in P
 
 To create a copy of the workshop materials, and run the code, click the Open in Colab button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
 
-### Credits
+## Credits
 
 These materials were created by Claire Cahoon and Walt Gurley, adapted from previous workshop materials by Scott Bailey and Simon Wiles, of Stanford Libraries.
